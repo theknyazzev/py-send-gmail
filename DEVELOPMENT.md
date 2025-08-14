@@ -27,10 +27,7 @@ advanced-email-sender/
 ├── README.md                   # Project documentation
 ├── DEVELOPMENT.md              # This file
 ├── LICENSE                     # MIT license
-├── .gitignore                  # Git ignore rules
-└── examples/
-    ├── sample_data.xlsx        # Example Excel file
-    └── test_emails.csv         # Example CSV file
+└── .gitignore                  # Git ignore rules
 ```
 
 ## 🚀 Setup Development Environment
@@ -38,7 +35,7 @@ advanced-email-sender/
 ### 1. Clone and Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/advanced-email-sender.git
+git clone https://github.com/theknyazzev/py-send-gmail.git
 cd advanced-email-sender
 
 # Create virtual environment
