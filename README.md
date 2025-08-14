@@ -1,4 +1,4 @@
-# 📧 Advanced Email Sender
+# 📧 Py send gmail
 
 A powerful Python application for automated email campaigns using Gmail API with Excel integration and smart templates.
 
@@ -9,7 +9,7 @@ A powerful Python application for automated email campaigns using Gmail API with
 ## ✨ Features
 
 - 🔐 **Secure Gmail API Integration** - OAuth2 authentication for safe email sending
-- 📊 **Excel/CSV Support** - Load recipient data from spreadsheet files
+- 📊 **Excel** - Load recipient data from spreadsheet files
 - 📝 **Smart Templates** - Multiple customizable email templates with variable substitution
 - ⏱️ **Rate Limiting** - Built-in delays to respect Gmail API limits
 - 🎯 **Targeted Campaigns** - Personalized emails with company name insertion
@@ -29,7 +29,7 @@ A powerful Python application for automated email campaigns using Gmail API with
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/advanced-email-sender.git
+   git clone https://github.com/theknyazzev/py-send-gmail.git
    cd advanced-email-sender
    ```
 
@@ -191,14 +191,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Google Gmail API for secure email sending
-- pandas for Excel/CSV processing
+- pandas for Excel
 - The Python community for excellent libraries
 
 ## 📞 Support
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/advanced-email-sender/issues) page
+1. Check the [Issues](https://github.com/theknyazzev/py-send-gmail/issues) page
 2. Create a new issue with detailed description
 3. Include error messages and system information
 
